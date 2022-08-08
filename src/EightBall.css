@@ -1,0 +1,22 @@
+.ball{
+    height: 200px;
+    width: 200px;
+    border: 2px solid gray;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.check{
+    margin-top: 50px;
+    height: 60px;
+    width: 180px;
+    border: 2px solid gray;
+    outline: 0;
+}
+
+.ball > p{
+    color: yellow;
+}
+
